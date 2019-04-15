@@ -12,7 +12,7 @@ An Amazon-like storefront using Node. Users have the ability to view a current l
 
 
 ### bAmazon start  
-![Start](./images/bAmazon-start.png =250x)  
+![Start](./images/bAmazon-start.png =250x250)  
 
 
 The database has set quantities of each item and will validate if the item is in stock before confirming the purchase. An error will be returned if the quantity to be purchased exceeds the number available in inventory. 

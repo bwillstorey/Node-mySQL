@@ -5,7 +5,6 @@
 
 ## Technology
 - mySQL, Node, Inquirer
-- Live Demo: 
 
 ## About
 An Amazon-like storefront using Node. Users have the ability to view a current list of inventory from the SQL database and are asked questions on the command line using Node and Inquirer about which product they would like to purchase and the quantity they would like to purchase. 

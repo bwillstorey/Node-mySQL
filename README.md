@@ -39,7 +39,7 @@ All contributions and suggestions are welcome! For direct contributions, please 
 
 ## Contact
 #### Developer/Full-stack Web Software Developer
-- Homepage: https://bwillstorey.github.io/Portfolio/
+- Homepage: https://brianstorey.me
 - email: bwillstorey@gmail.com
 - LinkedIn: https://www.linkedin.com/in/brianstorey/
 - AngelList: https://angel.co/brian-storey
